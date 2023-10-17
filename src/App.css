@@ -1,0 +1,80 @@
+*{
+  margin: 0;
+  padding: 0;
+}html, body{
+  font-size: 18px;
+  background-color: #f5f6f7; /*blanco grisaseo */
+
+}
+header{
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  width: 100%;  
+  height: 50px;
+  background-color: black;
+  color: #f5f6f7;
+  text-align: center;
+  
+  
+}
+.header-logo{
+  width: 24%;
+  height: auto;
+  float: left;
+  border-right: 1px solid #f5f6f7 ;
+}
+.header-logo img{
+  max-width: 24%;
+    max-height: 75px;
+    object-fit: scale-down;
+    height: 100%;
+    width: auto;
+}
+.header-cloud{
+  width: 24%;
+  height: auto;
+  float: left;
+  border-right: 1px solid #f5f6f7 ;
+}
+.header-tifa{
+  width: 24%;
+  height: auto;
+  float: left;
+  border-right: 1px solid #f5f6f7 ;
+}
+.header-aerith{
+  width: 24%;
+  height: auto;
+  float: left;
+}
+h1{
+  max-width: 940px;
+  font-size: 2.5em;
+  font-family: Lato, sans-serif;
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 40px 0;
+}
+
+.App{
+  min-width: 100vh; /* va a tomar el 100% de la pantalla vertical*/
+  display: flex; /*flexbox*/
+  flex-wrap: wrap; 
+  align-items: center;
+  justify-content: center; 
+  text-align: center;  
+}
+
+.main-container{
+  min-height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.character-name{
+  font-size: 1.3rem; /*1.3 del valor raiz que es 18px */
+
+}

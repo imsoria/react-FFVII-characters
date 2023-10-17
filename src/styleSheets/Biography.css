@@ -1,0 +1,45 @@
+.Biography-container{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: 0 3px 13px 1px rgb(0, 0, 0);
+}
+.img-biography{
+    max-width: 215px;
+    max-height: 368px;
+    object-fit: cover;
+    height: 100%;
+    width: auto;
+   
+}
+.img-biography:hover{
+    opacity: 0.8;
+}
+
+.text-container{
+    text-align: center;
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+.character-name{
+    font-size: 1.7rem;
+    font-weight:600;
+}
+.character-role{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+    font-weight: 500;
+    
+}
+.description-text{
+    font-size: 1.1rem;
+    text-align: justify;
+    
+}
