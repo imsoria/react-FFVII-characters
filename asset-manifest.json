@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-FFVII-characters/static/css/main.a1c3ab67.css",
+    "main.css": "/react-FFVII-characters/static/css/main.79162949.css",
     "main.js": "/react-FFVII-characters/static/js/main.79778d86.js",
     "static/media/header-logo.png": "/react-FFVII-characters/static/media/header-logo.6767a8c1c44e1c9212ea.png",
     "static/media/character-1.jpg": "/react-FFVII-characters/static/media/character-1.8f53122e2cd023a52bd8.jpg",
     "static/media/character-2.jpg": "/react-FFVII-characters/static/media/character-2.0e44a81e5778a982ba7d.jpg",
     "static/media/character-3.jpg": "/react-FFVII-characters/static/media/character-3.2cd9815c36f275d676fa.jpg",
     "index.html": "/react-FFVII-characters/index.html",
-    "main.a1c3ab67.css.map": "/react-FFVII-characters/static/css/main.a1c3ab67.css.map",
+    "main.79162949.css.map": "/react-FFVII-characters/static/css/main.79162949.css.map",
     "main.79778d86.js.map": "/react-FFVII-characters/static/js/main.79778d86.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1c3ab67.css",
+    "static/css/main.79162949.css",
     "static/js/main.79778d86.js"
   ]
 }
